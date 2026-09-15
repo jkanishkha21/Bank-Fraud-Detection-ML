@@ -235,13 +235,13 @@ This implementation focuses on a realistic, reproducible core version suitable f
 
 ## 13. Author
 
-**Name:** [Your Full Name]
+**Name:**  Kanishkha J
 
 **Course:** Artificial Intelligence
 
 **Organization:** GlowLogics
 
-**GitHub:** [Add your GitHub profile/repository link]
+**GitHub:** GitHub: https://github.com/jkanishkha21/Bank-Fraud-Detection-ML
 
 ## 14. Disclaimer
 
